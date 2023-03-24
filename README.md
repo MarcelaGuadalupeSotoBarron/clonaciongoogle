@@ -2,10 +2,10 @@
 
 ## **Indice**
 
-* [1. Intro](https://github.com/MarcelaSoto-1/clonaciongoogle/edit/main/README.md#1-intro)
-* [2. Que construi](https://github.com/MarcelaSoto-1/clonaciongoogle/edit/main/README.md#2-que-construi)
-* [3. Objetivo del proyecto](https://github.com/MarcelaSoto-1/clonaciongoogle/edit/main/README.md#3-objetivo-del-proyecto)
-* [4. Link a demo](https://github.com/MarcelaSoto-1/clonaciongoogle/edit/main/README.md#4-link-a-demo)
+* [1. Intro](https://github.com/MarcelaSoto-1/clonaciongoogle/blob/main/README.md#1-intro)
+* [2. Que construi](https://github.com/MarcelaSoto-1/clonaciongoogle/blob/main/README.md#2-que-construi)
+* [3. Objetivo del proyecto](https://github.com/MarcelaSoto-1/clonaciongoogle/blob/main/README.md#3-objetivo-del-proyecto)
+* [4. Link a demo](https://github.com/MarcelaSoto-1/clonaciongoogle/blob/main/README.md#4-link-a-demo)
 
 ****
 
