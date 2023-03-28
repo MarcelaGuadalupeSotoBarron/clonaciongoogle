@@ -26,4 +26,4 @@ Contiene las siguientes secciones:
 Aprender a utlizar las etiquetas estandar de HTML5 y CSS3.
 
 ## 4. Link a demo
-Aqui puedes visualizar mi proyecto terminado: [Clonacion de Google](#)
+Aqui puedes visualizar mi proyecto terminado: [Clonacion de Google](https://cheery-pony-662327.netlify.app)
